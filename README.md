@@ -119,6 +119,7 @@ function order(){
 
   if(name=="" || phone=="" || address==""){
     alert("Fill all fields!");
+
     return;
   }
 
@@ -127,6 +128,7 @@ function order(){
   window.open("https://wa.me/880XXXXXXXXXX?text="+msg);
 }
 </script>
-
+![mithun111](https://github.com/user-attachments/assets/e2459b1b-0b6a-4cdc-a56d-f8398c92e850)
 </body>
 </html>
+![mithun2222](https://github.com/user-attachments/assets/89ac8ff6-3953-4577-92ce-ec4cafe2a76c)
